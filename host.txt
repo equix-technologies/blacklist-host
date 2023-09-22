@@ -2,5 +2,4 @@
 # The list contains uniques domains reported by NF IT                 #
 # The list is released without any warranty to the end users.         #
 #######################################################################
-agemn.co.za
-aitchain.in
+.telegram.org
