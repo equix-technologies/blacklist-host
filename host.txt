@@ -4,4 +4,5 @@
 ! The list is released without any warranty to the end users.!
 ! -----------------------------------------------------------!
 ||telegram.org^
-
+||www.telegram.org^
+||web.telegram.org^
