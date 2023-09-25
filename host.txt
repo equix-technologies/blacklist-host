@@ -6,3 +6,5 @@
 ||telegram.org^
 ||www.telegram.org^
 ||web.telegram.org^
+||tiktok.com^
+||www.tiktok.com^
