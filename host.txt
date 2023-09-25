@@ -8,3 +8,6 @@
 ||web.telegram.org^
 ||tiktok.com^
 ||www.tiktok.com^
+||ib.tiktokv.com^
+||api.tiktokv.com^
+||tiktokcdn.com^
