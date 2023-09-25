@@ -1,13 +1,12 @@
-[Adblock Plus 1.1]
-! -----------------General tracking systems------------------!
-! The list contains uniques domains reported by NF IT        !
-! The list is released without any warranty to the end users.!
-! -----------------------------------------------------------!
-||telegram.org^
-||www.telegram.org^
-||web.telegram.org^
-||tiktok.com^
-||www.tiktok.com^
-||ib.tiktokv.com^
-||api.tiktokv.com^
-||tiktokcdn.com^
+# -----------------General tracking systems------------------#
+# The list contains uniques domains reported by NF IT        #
+# The list is released without any warranty to the end users #
+# -----------------------------------------------------------#
+telegram.org
+www.telegram.org
+web.telegram.org
+tiktok.com
+www.tiktok.com
+ib.tiktokv.com
+api.tiktokv.com
+tiktokcdn.com
