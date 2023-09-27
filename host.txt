@@ -2,6 +2,7 @@
 # The list contains uniques domains reported by NF IT        #
 # The list is released without any warranty to the end users #
 # -----------------------------------------------------------#
+# ------ chat services
 telegram.org
 .telegram.org
 tiktok.com
@@ -10,3 +11,15 @@ tiktokv.com
 .tiktokv.com
 tiktokcdn.com
 .tiktokcdn.com
+# ------ online storage services
+fshare.vn
+.fshare.vn
+dropbox.com
+.dropbox.com
+box.com
+.box.com
+mega.io
+.mega.io
+mega.nz
+.mega.nz
+# ------ chat services
