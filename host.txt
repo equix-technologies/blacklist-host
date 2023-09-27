@@ -3,10 +3,10 @@
 # The list is released without any warranty to the end users #
 # -----------------------------------------------------------#
 telegram.org
-www.telegram.org
-web.telegram.org
+*.telegram.org
 tiktok.com
-www.tiktok.com
-ib.tiktokv.com
-api.tiktokv.com
+*.tiktok.com
+tiktokv.com
+*.tiktokv.com
 tiktokcdn.com
+*.tiktokcdn.com
