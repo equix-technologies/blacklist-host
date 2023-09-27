@@ -114,8 +114,8 @@ mega.io
 .mega.io
 mega.nz
 .mega.nz
-# drive.google.com
-# .drive.google.com
+drive.google.com
+.drive.google.com
 onedrive.live.com
 .onedrive.live.com
 pcloud.com
