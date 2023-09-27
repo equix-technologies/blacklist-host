@@ -22,4 +22,12 @@ mega.io
 .mega.io
 mega.nz
 .mega.nz
-# ------ chat services
+drive.google.com
+.drive.google.com
+pcloud.com
+.pcloud.com
+sync.com
+.sync.com
+mediafire.com
+.mediafire.com
+# ------ document online services
