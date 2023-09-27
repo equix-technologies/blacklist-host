@@ -2,7 +2,7 @@
 # The list contains uniques domains reported by NF IT        #
 # The list is released without any warranty to the end users #
 # -----------------------------------------------------------#
-# ------ Chat/Social Media services
+# ------------------------------------------------------------ Chat/Social Media services
 telegram.org
 .telegram.org
 tiktok.com
@@ -103,7 +103,7 @@ ameba.jp
 .ameba.jp
 pinterest.ca
 .pinterest.ca
-# ------ online storage services
+# ------------------------------------------------------------------------- online storage services
 fshare.vn
 .fshare.vn
 dropbox.com
@@ -232,7 +232,7 @@ rentry.co
 .rentry.co
 cutty.app
 .cutty.app
-# ------ document online services
+# ----------------------------------------------------------------------- document online services
 proofhub.com
 .proofhub.com
 tettra.com
