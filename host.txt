@@ -64,4 +64,18 @@ deephicy.net
 .deephicy.net
 gofile.io
 .gofile.io
+rainberrytv.com
+.rainberrytv.com
+rutracker.org
+.rutracker.org
+torrentgalaxy.to
+.torrentgalaxy.to
+1fichier.com
+.1fichier.com
+rapidgator.net
+.rapidgator.net
+gogoanimes.fi
+.gogoanimes.fi
+1377x.to
+.1377x.to
 # ------ document online services
