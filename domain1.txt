@@ -1,5 +1,3 @@
-# Host file to block ads, tracking and more! Updated daily
-# ===================================================================
 0.0.0.0	telegram.org
 0.0.0.0	.telegram.org
 0.0.0.0	tiktok.com
