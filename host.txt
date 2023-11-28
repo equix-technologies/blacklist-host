@@ -1,3 +1,9 @@
+[Adblock Plus 2.0]
+! Version: 20231127153226
+! Title: NF Blacklist
+! Last modified: 27 Nov 2023 15:32:26 UTC+7
+! Copyright: NF
+! ---------- Generic Blocking Rules ----------
 telegram.org
 .telegram.org
 tiktok.com
