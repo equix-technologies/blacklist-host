@@ -280,3 +280,5 @@ workzone.com
 .workzone.com
 basecamp.com
 .basecamp.com
+openai.com
+.openai.com
