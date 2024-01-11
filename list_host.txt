@@ -110,6 +110,8 @@ mega.nz
 .mega.nz
 drive.google.com
 .drive.google.com
+docs.google.com
+.docs.google.com
 onedrive.live.com
 .onedrive.live.com
 pcloud.com
